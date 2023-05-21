@@ -2,7 +2,7 @@
 	"name": "Deploy",
 	"description": "Wa Bot.",
 	"keywords": [
-		"Abu",
+		"T5A",
 		"bot"
 	],
 	"repository": "https://github.com/Afx-Abu/Abu-MD",
@@ -56,17 +56,17 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Abu-MD,~Jasil💗"
+            "value":"Parker-T4A,~Jasil💗"
         },
        "BOT_INFO": {
             "description": "Your bot menu info changing ;",
             "required": true,
-            "value":"𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg"
+            "value":"𝐀𝐁𝐔 By T5A;~Jasil;Copyright by T5A;212717067815;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"T5A MD;T5A;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -76,7 +76,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"917025994178"
+            "value":"212717067815"
         },
        "SESSION_ID": {
             "description": "Your MD session",
