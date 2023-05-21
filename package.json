@@ -1,7 +1,7 @@
 {
-   "name": "Abu-MD",
+   "name": "Taha-T4A",
    "version": "2.0.1",
-   "description": "Abu-MD - Simple whatsapp Bot",
+   "description": "Parker-T4A - Simple whatsapp Bot",
    "main": "./index.js",
    "scripts": {
     "start": "supervisor -s index.js"
